@@ -73,9 +73,12 @@ with the largest aggregate popularity
 
 ### Results 
 
-The top five categories that performed the best when measured by score were: 
-* animals 
-* science
-* healthy eating
-* technology
-* food 
+Based on the analysis, the top five highest-performing categories, ranked by score, were: 
+1. Animals 
+2. Science
+3. Healthy eating
+4. Technology
+5. Food
+
+These categories outperformed others based on their score which was determined through reactions to the content. The results suggest a strong public interest in Animals as it was the leading category in score and amount of posts. 
+
